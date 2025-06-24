@@ -4,7 +4,7 @@ My name is Ishan, and I'm a rising sophomore at UC Santa Barbara majoring in Com
 
 ---
 
-## Projects
+## 🔧 Projects
 
 Here are some of the projects I’ve worked on:
 
@@ -22,27 +22,20 @@ Predicts NBA postseason standings using regular season statistics, machine learn
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 - **Software Engineering Intern** @ FiryAI (2025)  
 - **Software Engineering Intern** @ CycleSCP (2023)  
 
 ---
 
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/ishan-katpally-09b907296/)  
+- [Resume]
+
+> _Feel free to connect with me!_
+
+---
+
 Thanks for visiting!
-
-
-<!--
-**IshanKat/IshanKat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
