@@ -11,6 +11,9 @@ Here are some of the projects I’ve worked on:
 ### [geometry-dash-ai](https://github.com/ThePickleGawd/geometry-dash-ai)
 A suite of reinforcement learning agents to learn Geometry Dash, with a C++ mod to observe and control the game in real time. Built from scratch with deep Q-learning and modding.
 
+### [realtime-speech-agents](https://github.com/ThePickleGawd/realtime-speech-agents)
+A fully local speech-to-speech AI pipeline combining real-time speech recognition, LLM reasoning, tool augmentation, and low-latency text-to-speech, built to run entirely on-device for faster, private, and extensible interactions.
+
 ### [baddy-buddy](https://github.com/lce4113/baddy-buddy)
 An advanced badminton AI analytics tool that takes recordings of your games and gives you insights and data on your game.
 
