@@ -35,7 +35,6 @@ Predicts NBA postseason standings using regular season statistics, machine learn
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/ishan-katpally-09b907296/)  
-- [Resume]
 
 > _Feel free to connect with me!_
 
