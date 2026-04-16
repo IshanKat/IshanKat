@@ -1,12 +1,15 @@
 # 👋 Hi!
 
-My name is Ishan, and I'm a rising sophomore at UC Santa Barbara majoring in Computer Science. I'm passionate about software engineering and AI/ML, but am also looking to broaden my knowledge. 
+My name is Ishan, and I'm a sophomore at UC Santa Barbara majoring in Computer Science! I'm passionate about software engineering and AI/ML, but am also looking to broaden my knowledge. 
 
 ---
 
 ## 🔧 Projects
 
 Here are some of the projects I’ve worked on:
+
+### [iris](https://github.com/ThePickleGawd/iris)
+An AI assistant that sees, hears, and draws across your Apple devices.
 
 ### [geometry-dash-ai](https://github.com/ThePickleGawd/geometry-dash-ai)
 A suite of reinforcement learning agents to learn Geometry Dash, with a C++ mod to observe and control the game in real time. Built from scratch with deep Q-learning and modding.
@@ -27,14 +30,15 @@ Predicts NBA postseason standings using regular season statistics, machine learn
 
 ## 💼 Work Experience
 
+- **Software Engineering Intern** @ Shopify (2026)
 - **Software Engineering Intern** @ FiryAI (2025)  
-- **Software Engineering Intern** @ CycleSCP (2023)  
+- **Software Engineering Intern** @ CycleSCP (2023)
 
 ---
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/ishan-katpally-09b907296/)  
+- [LinkedIn](https://www.linkedin.com/in/ishan-katpally-09b907296/)
 
 > _Feel free to connect with me!_
 
