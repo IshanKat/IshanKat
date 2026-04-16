@@ -23,9 +23,6 @@ An advanced badminton AI analytics tool that takes recordings of your games and 
 ### [cs190i-projects](https://github.com/IshanKat/cs190i-projects)
 Projects from UCSB Spring '25 CS 190I: Generative AI and Deep Learning. Includes custom implementation of YOLOv1 with a ResNet backbone, and a BERT model finetuned on sarcasm detection using LoRA.
 
-### [nba-standings-predictor](https://github.com/IshanKat/nba-standings-predictor)
-Predicts NBA postseason standings using regular season statistics, machine learning models, and historical trends.
-
 ---
 
 ## 💼 Work Experience
